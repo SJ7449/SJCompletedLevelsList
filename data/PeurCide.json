@@ -1,12 +1,14 @@
 {
     "id": 0,
-    "name": "CosMOS",
+    "name": "PeurCide",
     "author": "GDTenth",
-    "creators": ["GDTenth"],
+    "creators": [
+        "GDTenth"
+    ],
     "verifier": "GDTenth",
-    "attempts": 12265,
+    "attempts": 0,
     "verification": "",
-    "percentToQualify": 95,
+    "percentToQualify": 93,
     "password": "N/A",
     "records": []
 }

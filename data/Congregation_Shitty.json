@@ -1,18 +1,20 @@
 {
     "id": 0,
-    "name": "HeLL",
+    "name": "Congregation Shitty",
     "author": "Unknown",
-    "creators": ["Unknown"],
-    "verifier": "Unknown",
+    "creators": [
+        "Unknown"
+    ],
+    "verifier": "",
     "verification": "",
-    "percentToQualify": 90,
+    "percentToQualify": 91,
     "password": "N/A",
     "records": [
         {
             "user": "GDTenth",
             "link": "",
             "percent": 100,
-            "attempts": 5005,
+            "attempts": 0,
             "hz": 240
         }
     ]

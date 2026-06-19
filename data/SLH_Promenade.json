@@ -1,11 +1,14 @@
 {
     "id": 0,
-    "name": "SuperBigBuffRed",
+    "name": "SLH Promenade",
     "author": "GDTenth",
-    "creators": ["GDTenth"],
+    "creators": [
+        "GDTenth"
+    ],
     "verifier": "GDTenth",
+    "attempts": 0,
     "verification": "",
-    "percentToQualify": 85,
+    "percentToQualify": 90,
     "password": "N/A",
     "records": []
 }

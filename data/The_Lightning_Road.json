@@ -1,18 +1,20 @@
 {
     "id": 0,
-    "name": "Nine Circles",
+    "name": "The Lightning Road",
     "author": "Unknown",
-    "creators": ["Unknown"],
-    "verifier": "Unknown",
+    "creators": [
+        "Unknown"
+    ],
+    "verifier": "",
     "verification": "",
-    "percentToQualify": 100,
+    "percentToQualify": 71,
     "password": "N/A",
     "records": [
         {
             "user": "GDTenth",
             "link": "",
             "percent": 100,
-            "attempts": 10135,
+            "attempts": 0,
             "hz": 240
         }
     ]
