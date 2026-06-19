@@ -1,0 +1,21 @@
+{
+    "id": 0,
+    "name": "Shitty X",
+    "author": "Unknown",
+    "creators": [
+        "Unknown"
+    ],
+    "verifier": "",
+    "verification": "",
+    "percentToQualify": 76,
+    "password": "N/A",
+    "records": [
+        {
+            "user": "GDTenth",
+            "link": "",
+            "percent": 100,
+            "attempts": 0,
+            "hz": 240
+        }
+    ]
+}

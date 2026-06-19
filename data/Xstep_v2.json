@@ -1,0 +1,21 @@
+{
+    "id": 0,
+    "name": "Xstep v2",
+    "author": "Unknown",
+    "creators": [
+        "Unknown"
+    ],
+    "verifier": "",
+    "verification": "",
+    "percentToQualify": 74,
+    "password": "N/A",
+    "records": [
+        {
+            "user": "GDTenth",
+            "link": "",
+            "percent": 100,
+            "attempts": 0,
+            "hz": 240
+        }
+    ]
+}

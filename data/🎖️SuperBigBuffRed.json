@@ -1,0 +1,21 @@
+{
+    "id": 0,
+    "name": "\ud83c\udf96\ufe0fSuperBigBuffRed",
+    "author": "Unknown",
+    "creators": [
+        "Unknown"
+    ],
+    "verifier": "",
+    "verification": "",
+    "percentToQualify": 96,
+    "password": "N/A",
+    "records": [
+        {
+            "user": "GDTenth",
+            "link": "",
+            "percent": 100,
+            "attempts": 0,
+            "hz": 240
+        }
+    ]
+}

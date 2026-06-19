@@ -1,0 +1,21 @@
+{
+    "id": 0,
+    "name": "The Nightmare",
+    "author": "Unknown",
+    "creators": [
+        "Unknown"
+    ],
+    "verifier": "",
+    "verification": "",
+    "percentToQualify": 69,
+    "password": "N/A",
+    "records": [
+        {
+            "user": "GDTenth",
+            "link": "",
+            "percent": 100,
+            "attempts": 0,
+            "hz": 240
+        }
+    ]
+}
