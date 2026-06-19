@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "Nine Circles",
+    "author": "Unknown",
+    "creators": ["Unknown"],
+    "verifier": "Unknown",
+    "verification": "",
+    "percentToQualify": 90,
+    "password": "N/A",
+    "records": [
+        {
+            "user": "GDTenth",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
