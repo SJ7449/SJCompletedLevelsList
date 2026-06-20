@@ -1,11 +1,11 @@
 {
     "id": 0,
     "name": "Jawbreaker",
-    "author": "Unknown",
+    "author": "ZenthicAlpha",
     "creators": [
-        "Unknown"
+        "ZenthicAlpha"
     ],
-    "verifier": "",
+    "verifier": "ZenthicAlpha",
     "verification": "",
     "percentToQualify": 96,
     "password": "N/A",
