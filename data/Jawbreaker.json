@@ -1,20 +1,20 @@
 {
     "id": 0,
-    "name": "Xstep v2",
+    "name": "Jawbreaker",
     "author": "Unknown",
     "creators": [
         "Unknown"
     ],
     "verifier": "",
     "verification": "",
-    "percentToQualify": 72,
+    "percentToQualify": 96,
     "password": "N/A",
     "records": [
         {
             "user": "GDTenth",
             "link": "",
-            "percent": 100,
-            "attempts": 0,
+            "percent": 89,
+            "attempts": 556,
             "hz": 240
         }
     ]

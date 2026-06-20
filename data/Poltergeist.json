@@ -1,20 +1,20 @@
 {
     "id": 0,
-    "name": "Xstep v2",
+    "name": "Poltergeist",
     "author": "Unknown",
     "creators": [
         "Unknown"
     ],
     "verifier": "",
     "verification": "",
-    "percentToQualify": 72,
+    "percentToQualify": 99,
     "password": "N/A",
     "records": [
         {
             "user": "GDTenth",
             "link": "",
-            "percent": 100,
-            "attempts": 0,
+            "percent": 81,
+            "attempts": 6195,
             "hz": 240
         }
     ]
