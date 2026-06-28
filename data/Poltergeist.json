@@ -1,11 +1,11 @@
 {
     "id": 0,
     "name": "Poltergeist",
-    "author": "Andromeda GMD",
+    "author": "Unknown",
     "creators": [
-        "Andromeda GMD"
+        "Unknown"
     ],
-    "verifier": "Andromeda GMD",
+    "verifier": "",
     "verification": "",
     "percentToQualify": 99,
     "password": "N/A",
@@ -14,7 +14,7 @@
             "user": "GDTenth",
             "link": "",
             "percent": 81,
-            "attempts": 6195,
+            "attempts": 0,
             "hz": 240
         }
     ]

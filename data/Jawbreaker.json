@@ -1,20 +1,20 @@
 {
     "id": 0,
     "name": "Jawbreaker",
-    "author": "ZenthicAlpha",
+    "author": "Unknown",
     "creators": [
-        "ZenthicAlpha"
+        "Unknown"
     ],
-    "verifier": "ZenthicAlpha",
+    "verifier": "",
     "verification": "",
-    "percentToQualify": 96,
+    "percentToQualify": 95,
     "password": "N/A",
     "records": [
         {
             "user": "GDTenth",
             "link": "",
             "percent": 89,
-            "attempts": 556,
+            "attempts": 0,
             "hz": 240
         }
     ]
