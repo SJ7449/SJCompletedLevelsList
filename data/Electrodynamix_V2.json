@@ -1,20 +1,20 @@
 {
     "id": 0,
-    "name": "\ud83e\udd49CosMOS",
+    "name": "Electrodynamix V2",
     "author": "Unknown",
     "creators": [
         "Unknown"
     ],
     "verifier": "",
     "verification": "",
-    "percentToQualify": 96,
+    "percentToQualify": 94,
     "password": "N/A",
     "records": [
         {
             "user": "GDTenth",
             "link": "",
             "percent": 100,
-            "attempts": 0,
+            "attempts": 1085,
             "hz": 240
         }
     ]

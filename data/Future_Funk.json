@@ -1,20 +1,20 @@
 {
     "id": 0,
-    "name": "\ud83e\udd48Electrodynamix V2",
+    "name": "Future Funk",
     "author": "Unknown",
     "creators": [
         "Unknown"
     ],
     "verifier": "",
     "verification": "",
-    "percentToQualify": 97,
+    "percentToQualify": 98,
     "password": "N/A",
     "records": [
         {
             "user": "GDTenth",
             "link": "",
             "percent": 100,
-            "attempts": 0,
+            "attempts": 7822,
             "hz": 240
         }
     ]
