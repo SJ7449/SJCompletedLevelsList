@@ -1,20 +1,20 @@
 {
     "id": 0,
-    "name": "Invisible Clubstep",
+    "name": "Nine Circles",
     "author": "Unknown",
     "creators": [
         "Unknown"
     ],
     "verifier": "",
     "verification": "",
-    "percentToQualify": 79,
+    "percentToQualify": 97,
     "password": "N/A",
     "records": [
         {
             "user": "GDTenth",
             "link": "",
             "percent": 100,
-            "attempts": 0,
+            "attempts": 10135,
             "hz": 240
         }
     ]

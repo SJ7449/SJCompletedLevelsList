@@ -1,20 +1,20 @@
 {
     "id": 0,
-    "name": "Invisible Clubstep",
+    "name": "\ud83c\udf96HeLL",
     "author": "Unknown",
     "creators": [
         "Unknown"
     ],
     "verifier": "",
     "verification": "",
-    "percentToQualify": 79,
+    "percentToQualify": 93,
     "password": "N/A",
     "records": [
         {
             "user": "GDTenth",
             "link": "",
             "percent": 100,
-            "attempts": 0,
+            "attempts": 5005,
             "hz": 240
         }
     ]

@@ -1,20 +1,20 @@
 {
     "id": 0,
-    "name": "Invisible Clubstep",
+    "name": "Future Funk",
     "author": "Unknown",
     "creators": [
         "Unknown"
     ],
     "verifier": "",
     "verification": "",
-    "percentToQualify": 79,
+    "percentToQualify": 98,
     "password": "N/A",
     "records": [
         {
             "user": "GDTenth",
             "link": "",
             "percent": 100,
-            "attempts": 0,
+            "attempts": 7822,
             "hz": 240
         }
     ]

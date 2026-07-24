@@ -7,14 +7,14 @@
     ],
     "verifier": "",
     "verification": "",
-    "percentToQualify": 95,
+    "percentToQualify": 96,
     "password": "N/A",
     "records": [
         {
             "user": "GDTenth",
             "link": "",
-            "percent": 89,
-            "attempts": 0,
+            "percent": 100,
+            "attempts": 1302,
             "hz": 240
         }
     ]
